@@ -1,0 +1,18 @@
+
+
+.carouselEstilo {
+    margin: 6rem;    
+}
+
+
+.kosmonavt {
+    transform: translate(10px, 20px);
+}
+
+
+.footer {
+    position: absolute;
+    padding:5px;
+    background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
